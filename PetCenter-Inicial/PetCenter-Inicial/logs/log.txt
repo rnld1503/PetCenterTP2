@@ -1,0 +1,10 @@
+INFO  2016-10-01 12:10:57,508   677ms HomeController         Index              - Se esta pintando el log!
+DEBUG 2016-10-01 12:10:57,571   740ms HomeController         Index              - Mensaje en Debug
+INFO  2016-10-01 12:11:06,403  9571ms HomeController         Index              - Se esta pintando el log!
+DEBUG 2016-10-01 12:11:06,404  9572ms HomeController         Index              - Mensaje en Debug
+INFO  2016-10-01 12:19:47,293   784ms HomeController         Index              - Se esta pintando el log!
+DEBUG 2016-10-01 12:19:47,315   806ms HomeController         Index              - Mensaje en Debug
+INFO  2016-10-01 12:19:55,402  8892ms HomeController         Index              - Se esta pintando el log!
+DEBUG 2016-10-01 12:19:55,403  8893ms HomeController         Index              - Mensaje en Debug
+INFO  2016-10-01 12:19:58,139 11630ms ChipManagerController  Register           - Se esta pintando el log!
+DEBUG 2016-10-01 12:19:58,142 11633ms ChipManagerController  Register           - Mensaje en Debug

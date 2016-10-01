@@ -8,9 +8,16 @@ namespace PetCenter_Inicial.Controllers
 {
     public class HomeController : Controller
     {
+        readonly log4net.ILog logger = log4net.LogManager.GetLogger(
+            System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
+
         public ActionResult Index()
         {
             ViewBag.Message = "Modify this template to jump-start your ASP.NET MVC application.";
+
+            logger.Info("Se esta pintando el log!");
+            logger.Debug("Mensaje en Debug");
+
 
             return View();
         }
